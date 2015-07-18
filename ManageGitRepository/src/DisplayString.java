@@ -6,6 +6,7 @@ public class DisplayString {
 		System.out.println("DisplayString.main()");
 		TestConst displayConst = new TestConst();
 		displayConst.displayConstant();
+		System.out.println("DisplayString.main() VIHAAN");
 	}
 
 }
